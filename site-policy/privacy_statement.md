@@ -5,7 +5,7 @@ HAPPYN云非常重视保护您的隐私。
 
 ### 一、声明适用范围
 
-本隐私声明中的“信息”特指第二条所收集的信息，本隐私政策不适用于您存储在HAPPYN云系统中的数据。您可通过 [《HAPPYN云服务协议》](https://github.com/happynlab/docs/site-policy/terms_of_service.md) 知悉更多关于您存储在HAPPYN云系统中的数据的相关政策。
+本隐私声明中的“信息”特指第二条所收集的信息，本隐私政策不适用于您存储在HAPPYN云系统中的数据。您可通过 [《HAPPYN云服务协议》](terms_of_service.md) 知悉更多关于您存储在HAPPYN云系统中的数据的相关政策。
 
 ### 二、信息收集范围
 
